@@ -1,5 +1,4 @@
-#Programação em R 
-Trabalho da Disciplina de Programação em R da Pós Graduação de Ciência de Dados da Unicarioca
+# Trabalho da Disciplina de Programação em R da Pós Graduação de Ciência de Dados da Unicarioca
 Professor da disciplina: Sérgio Monteiro, DSc
 
 Aluno: Gustavo Rodrigues Carvalho
